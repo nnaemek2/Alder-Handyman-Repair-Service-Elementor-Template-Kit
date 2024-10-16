@@ -1,0 +1,1422 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Alder - Handyman & Repair Service Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter",
+            "screenshot": "screenshots\/form-newsletter.jpg",
+            "source": "templates\/form-newsletter.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/form-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Quotation",
+            "screenshot": "screenshots\/form-quotation.jpg",
+            "source": "templates\/form-quotation.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/form-quotation\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Quotation",
+            "screenshot": "screenshots\/quotation.jpg",
+            "source": "templates\/quotation.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/quotation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askproject.net\/alder\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.8",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.24.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/logo_Asset-1-800x240.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 27289,
+            "dimensions": [
+                1501,
+                450
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "linebg8.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/linebg8-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 37825,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/logo_Asset-2-800x240.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 26359,
+            "dimensions": [
+                1501,
+                450
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "linebg4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/linebg4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 41670,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-good-looking-arabic-man-in-turtleneck-HNZS2UB.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/portrait-of-good-looking-arabic-man-in-turtleneck-HNZS2UB-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 150758,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HNZS2UB"
+        },
+        {
+            "filename": "close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 98682,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5PRP7CF"
+        },
+        {
+            "filename": "portrait-of-happy-african-american-man-looking-at-KY33EHT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/portrait-of-happy-african-american-man-looking-at-KY33EHT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 89409,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KY33EHT"
+        },
+        {
+            "filename": "portrait-of-relaxed-man-at-home-EFLEKCX.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/portrait-of-relaxed-man-at-home-EFLEKCX-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 107004,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EFLEKCX"
+        },
+        {
+            "filename": "bearded-male-plumber-repairing-pipe-in-kitchen2-87X79HG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/bearded-male-plumber-repairing-pipe-in-kitchen2-87X79HG-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                }
+            ],
+            "filesize": 167691,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-87X79HG"
+        },
+        {
+            "filename": "senior-contractor-holding-tools-and-smiling-at-the-DVJANTV.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/senior-contractor-holding-tools-and-smiling-at-the-DVJANTV.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 213079,
+            "dimensions": [
+                700,
+                1027
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DVJANTV"
+        },
+        {
+            "filename": "carpenter-at-workbench-in-workshop-using-cordless-UMEUVFA.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/carpenter-at-workbench-in-workshop-using-cordless-UMEUVFA-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 162733,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-UMEUVFA"
+        },
+        {
+            "filename": "male-electrician-in-gloves-holding-tool-box-set-5CJNREG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/male-electrician-in-gloves-holding-tool-box-set-5CJNREG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 191248,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5CJNREG"
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon1-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13489,
+            "dimensions": [
+                1000,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "cheerful-bearded-man-fixing-pipe-in-kitchen-GWGMRX4.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/cheerful-bearded-man-fixing-pipe-in-kitchen-GWGMRX4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 193141,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GWGMRX4"
+        },
+        {
+            "filename": "icon2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon2-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 18291,
+            "dimensions": [
+                1000,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "painter-in-uniform-paints-the-wall-3E9JJWV.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/painter-in-uniform-paints-the-wall-3E9JJWV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 196099,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3E9JJWV"
+        },
+        {
+            "filename": "icon3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16883,
+            "dimensions": [
+                1001,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "carpenter-and-his-assistant-working-together-in-a-ASSBFK6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/carpenter-and-his-assistant-working-together-in-a-ASSBFK6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 221910,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ASSBFK6"
+        },
+        {
+            "filename": "icon4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon4-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14527,
+            "dimensions": [
+                1000,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-is-repairingoutlet-he-has-screwdriver-in-his-B3AETFL.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/man-is-repairingoutlet-he-has-screwdriver-in-his-B3AETFL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 167889,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3AETFL"
+        },
+        {
+            "filename": "icon5.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon5-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 18779,
+            "dimensions": [
+                1000,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "carpentry-renovation-work-furniture-assembly-ne-7MASKV7.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/carpentry-renovation-work-furniture-assembly-ne-7MASKV7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 178922,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7MASKV7"
+        },
+        {
+            "filename": "icon6.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/icon6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19994,
+            "dimensions": [
+                1001,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "linebg6.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/linebg6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 45749,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "number1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/number1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                }
+            ],
+            "filesize": 12799,
+            "dimensions": [
+                1001,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "number2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/number2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                }
+            ],
+            "filesize": 15842,
+            "dimensions": [
+                1001,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "number3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/number3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                }
+            ],
+            "filesize": 16727,
+            "dimensions": [
+                1001,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client1-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 17281,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client2-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 15534,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client3-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 11631,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client4-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 9183,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client5.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client5-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 13615,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client6.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client6-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 6984,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client7.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client7-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 15998,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client8.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client8-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 10917,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client9.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client9-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 11039,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "client10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/client10-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 14053,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "handsome-young-repairman-holding-adjustive-wrench-THQGYPF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/handsome-young-repairman-holding-adjustive-wrench-THQGYPF-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 151340,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-THQGYPF"
+        },
+        {
+            "filename": "selective-focus-of-cheerful-carpenter-in-goggles-a-S6CMJRN.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/selective-focus-of-cheerful-carpenter-in-goggles-a-S6CMJRN-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 200086,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-S6CMJRN"
+        },
+        {
+            "filename": "sunshine-on-cheerful-installer-in-overalls-holding-HERPYSX.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/sunshine-on-cheerful-installer-in-overalls-holding-HERPYSX-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 113531,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HERPYSX"
+        },
+        {
+            "filename": "cheerful-male-worker-holding-electric-hammer-drill-KS6D8CB.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/cheerful-male-worker-holding-electric-hammer-drill-KS6D8CB-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 116044,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KS6D8CB"
+        },
+        {
+            "filename": "side-view-of-bearded-worker-in-protective-gloves-a-5WCCD2T.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/side-view-of-bearded-worker-in-protective-gloves-a-5WCCD2T-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 175434,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5WCCD2T"
+        },
+        {
+            "filename": "linebg10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/linebg10-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/quotation.json",
+                    "name": "Quotation"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 33742,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "empty-walls-young-man-working-in-uniform-at-const-6J3BZNV.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/empty-walls-young-man-working-in-uniform-at-const-6J3BZNV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 169331,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6J3BZNV"
+        },
+        {
+            "filename": "electrician-portrait-with-power-cable-JVCBU84.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/electrician-portrait-with-power-cable-JVCBU84-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187052,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JVCBU84"
+        },
+        {
+            "filename": "man-in-workshop-NA26SUW.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/man-in-workshop-NA26SUW-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 228767,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NA26SUW"
+        },
+        {
+            "filename": "confident-male-contractor-with-clients-n-backgroun-BRRJZ3F.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/confident-male-contractor-with-clients-n-backgroun-BRRJZ3F-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 201297,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BRRJZ3F"
+        },
+        {
+            "filename": "smiling-carpenter-in-helmet-with-building-tools-st-WXMU56N.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/smiling-carpenter-in-helmet-with-building-tools-st-WXMU56N-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 166829,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXMU56N"
+        },
+        {
+            "filename": "404_Asset-3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/alder\/wp-content\/uploads\/sites\/201\/2024\/10\/404_Asset-3-800x338.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 31547,
+            "dimensions": [
+                1501,
+                635
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}
